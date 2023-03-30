@@ -1,0 +1,1 @@
+const solution = (array) => [...array.join('')].filter(a => a === '7').length;
